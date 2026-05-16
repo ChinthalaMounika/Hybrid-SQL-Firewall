@@ -18,6 +18,11 @@ uvicorn main:app --reload
 
 Then open http://localhost:8000 in your browser.
 
+## Screenshots
+
+![Login Page](Login.png)
+![Admin Dashboard](admin%20dashboard.png)
+
 ## Project Structure
 ├── main.py                        # FastAPI app and detection logic
 ├── templates/                     # HTML templates
